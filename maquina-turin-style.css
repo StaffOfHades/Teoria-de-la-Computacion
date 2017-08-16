@@ -1,0 +1,15 @@
+.answer {
+	display: inline-block;
+}
+.container {
+	display: block;
+}
+.file-in-container {
+	display: block;
+	margin-left: 0px;
+	margin-right: auto;
+	text-align: left;
+}
+ul {
+	list-style-type: none;
+}

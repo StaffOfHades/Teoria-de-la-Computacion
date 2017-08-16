@@ -1,0 +1,13 @@
+L = { 0*1* }
+Q: s, q, x
+∑: 0, 1
+s: s
+F: s, q
+R: x
+∂:	
+	s, 0, 0, s, RIGHT
+	s, 1, 1, q, RIGHT
+	s, b, b, s, RIGHT
+	q, 0, 0, x, RIGHT
+	q, 1, 1, q, RIGHT
+	q, b, b, q, RIGHT

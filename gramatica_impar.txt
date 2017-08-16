@@ -1,0 +1,13 @@
+L = { (0,1)* | 1 sea impar}
+Q: s, q, x
+∑: 0, 1
+s: s
+F: q
+R: s, x
+∂: 	
+	s, 0, 0, s, RIGHT
+	s, 1, 1, q, RIGHT
+	s, b, b, x, RIGHT
+	q, 0, 0, q, RIGHT
+	q, 1, 1, s, RIGHT
+	q, b, b, q, RIGHT
